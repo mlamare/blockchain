@@ -44,7 +44,7 @@ Here are a few screenshots
 
 1. Posting some content
 
-![image.png](https://github.com/satwikkansal/python_blockchain_app/raw/master/screenshots/1.png)
+![image.png](https://github.com/mlamare/python_blockchain_app/raw/master/screenshots/1.png)
 
 2. Requesting the node to mine
 
