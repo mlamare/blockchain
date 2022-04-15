@@ -1,6 +1,6 @@
 # python_blockchain_app
 
-A simple tutorial for developing a blockchain application from scratch in Python.
+A simple tutorial for developing a blockchain application from scratch in Python that was created b  satwikkansal, and we altered to fit the project. 
 
 ## What is blockchain? How it is implemented? And how it works?
 
